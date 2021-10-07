@@ -1006,6 +1006,7 @@
 
 @media (min-width: 1024px) {
   .lp-oc .footer__container .title {
+    margin: 65px 0;
     font-size: 35px;
     line-height: 53px;
   }

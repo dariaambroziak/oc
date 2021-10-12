@@ -769,7 +769,6 @@
 @media (min-width: 577px) and (max-width: 767px) {
   .lp-oc .technology__compare .content {
     height: 190px;
-    border: 1px solid green;
   }
 }
 
@@ -837,7 +836,7 @@
 @media (min-width: 577px) and (max-width: 767px) {
   .lp-oc .technology__compare ul {
     justify-content: space-between;
-    margin: 22px 0 15px;
+    margin: 28px 0 15px;
     height: 122px;
   }
 }
@@ -1219,6 +1218,7 @@
   font-size: 1.5vw;
   line-height: 1.8vw;
   font-weight: 400;
+  width: 100%;
 }
 
 @media (max-width: 767px) {

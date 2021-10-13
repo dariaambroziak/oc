@@ -789,6 +789,21 @@
     }
   }
 }
+.video{
+  height: 34vw;
+  max-height: 360px;
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+  @media (max-width: 576px) {
+    height: auto;
+  }
+  video {
+    @media (max-width: 576px) {
+      width: 100%;
+    }
+  }
+}
 .footer {
   &__container {
     display: flex;

@@ -797,6 +797,8 @@
   padding-top: 2rem;
   @media (max-width: 576px) {
     height: auto;
+    min-height: auto;
+    padding-top: 0;
   }
   video {
     @media (max-width: 576px) {

@@ -1180,6 +1180,8 @@
 @media (max-width: 576px) {
   .lp-oc .video {
     height: auto;
+    min-height: auto;
+    padding-top: 0;
   }
 }
 

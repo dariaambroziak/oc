@@ -56,6 +56,18 @@
   }
 }
 
+@media (min-width: 577px) {
+  .lp-oc .SMmobile {
+    display: none !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .lp-oc .SMdesktop {
+    display: none !important;
+  }
+}
+
 .lp-oc a {
   text-decoration: none;
 }
